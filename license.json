@@ -1,14 +1,10 @@
 {
   "PRO-34-MUSTERI1": {
     "durum": "aktif",
-    "musteri_adi": "Ahmet Yılmaz (İstanbul)"
+    "musteri_adi": "Ahmet Yılmaz"
   },
   "PRO-06-MUSTERI2": {
-    "durum": "aktif",
-    "musteri_adi": "Mehmet Kaya (Ankara)"
-  },
-  "PRO-35-MUSTERI3": {
     "durum": "pasif",
-    "musteri_adi": "Can Otel (İzmir)"
+    "musteri_adi": "Mehmet Kaya"
   }
 }
