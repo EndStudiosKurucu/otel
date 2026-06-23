@@ -1,4 +1,4 @@
 {
-  "PRO-34-MUSTERI1": { "durum": "pasif", "bitis": "Süresi Bitti" },
+  "PRO-34-MUSTERI1": { "durum": "aktif", "bitis": "Süresi Bitti" },
   "PRO-06-MUSTERI2": { "durum": "pasif", "bitis": "Süresi Bitti" }
 }
