@@ -1,4 +1,14 @@
 {
-  "PRO-34-MUSTERI1": { "durum": "aktif", "bitis": "Süresi Bitti" },
-  "PRO-06-MUSTERI2": { "durum": "pasif", "bitis": "Süresi Bitti" }
+  "PRO-34-MUSTERI1": {
+    "durum": "aktif",
+    "musteri_adi": "Ahmet Yılmaz (İstanbul)"
+  },
+  "PRO-06-MUSTERI2": {
+    "durum": "aktif",
+    "musteri_adi": "Mehmet Kaya (Ankara)"
+  },
+  "PRO-35-MUSTERI3": {
+    "durum": "pasif",
+    "musteri_adi": "Can Otel (İzmir)"
+  }
 }
