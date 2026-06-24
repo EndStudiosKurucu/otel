@@ -1,3 +1,5 @@
-var GITHUB_LISANS_VERISI = {
-  "PRO-34-MUSTERI1": "pasif"
-};
+{
+  "PRO-34-MUSTERI1": {
+    "durum": "aktif"
+  }
+}
