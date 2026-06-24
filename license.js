@@ -1,6 +1,6 @@
 {
   "PRO-34-MUSTERI1": {
-    "durum": "aktif",
+    "durum": "pasif",
     "musteri_adi": "Ahmet Yılmaz"
   }
 }
