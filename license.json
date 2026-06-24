@@ -1,10 +1,4 @@
 {
-  "PRO-34-MUSTERI1": {
-    "durum": "pasif",
-    "musteri_adi": "Ahmet Yılmaz"
-  },
-  "PRO-06-MUSTERI2": {
-    "durum": "pasif",
-    "musteri_adi": "Mehmet Kaya"
-  }
+  "MUSTERI-AHMET-01": "aktif",
+  "MUSTERI-MEHMET-02": "pasif"
 }
